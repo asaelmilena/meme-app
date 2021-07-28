@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+h2 {
+  color: #398fb8;
+  font-size: 25px;
+  padding-top: 15px;
+}
+
+img {
+  width: 25%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+label {
+  color: #398fb8;
+}
